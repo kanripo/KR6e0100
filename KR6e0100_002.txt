@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:11.498751
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 華嚴法界玄鏡
 #+PROPERTY: CBETA_ID T45n1883
 #+PROPERTY: ID KR6e0100
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1883
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0100_T_000-0672a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0100_T_002-0677b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 下華嚴法界玄鏡卷下¶
+華嚴法界玄鏡卷下¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
 
